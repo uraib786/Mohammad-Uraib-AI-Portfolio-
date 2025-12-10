@@ -15,5 +15,6 @@ Goal: Data Analyst using AI
 - [Deep Learning Project](DeepLearning-Coursework/Project-1)
 - [NLP Project](NLP-Coursework/Project-1)
 - [AI at the Edge](AI-At-The-Edge/Project-1)
-## Presentations
-
+- 
+## Presentation
+- [Download AI Portfolio Presentation](Presentation/Mohammad_Uraib_AI_Portfolio_Presentation.pptx)
