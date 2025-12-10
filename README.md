@@ -17,4 +17,5 @@ Goal: Data Analyst using AI
 - [AI at the Edge](AI-At-The-Edge/Project-1)
 - 
 ## Presentation
-- [Download AI Portfolio Presentation](Presentation/Mohammad_Uraib_AI_Portfolio_Presentation.pptx)
+- [Download AI Portfolio Presentation (PPTX)](Presentation/Mohammad%20Uraib%20AI%20Portfolio.pptx)
+
