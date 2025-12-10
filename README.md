@@ -11,6 +11,8 @@ Goal: Data Analyst using AI
 - Data Analysis
 
 ## Projects
+
 - [Deep Learning Project](DeepLearning-Coursework/Project-1)
 - [NLP Project](NLP-Coursework/Project-1)
-- [AI At the Edge](AI-At-the-Edge/Project-1)
+- [AI at the Edge](AI-At-The-Edge/Project-1)
+
