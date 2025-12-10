@@ -1,1 +1,12 @@
-AI-at-the-Edge/Project-1/README.md
+# AI at the Edge - Project 1
+
+## Project Description
+This project focuses on running artificial intelligence models on edge devices for faster and more efficient processing.
+
+## Tools Used
+- Python
+- TensorFlow
+- Edge AI Concepts
+
+## What I Learned
+I learned how AI models can run on devices without cloud dependency.
