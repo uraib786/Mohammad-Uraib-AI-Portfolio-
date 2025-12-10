@@ -17,4 +17,8 @@ This project explores running AI models on edge devices to reduce latency and cl
 - Understanding edge-based AI deployment
 - Working with resource constraints
 
+## Viewing Notes
+Some files (such as .docx) must be downloaded to be viewed.
+PDF versions are provided for in-browser preview.
+
 
